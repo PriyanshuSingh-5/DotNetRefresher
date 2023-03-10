@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\bin\Debug\netcoreapp3.1\DotNetRefresherProblems.exe
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\bin\Debug\netcoreapp3.1\DotNetRefresherProblems.deps.json
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\bin\Debug\netcoreapp3.1\DotNetRefresherProblems.runtimeconfig.json
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\bin\Debug\netcoreapp3.1\DotNetRefresherProblems.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\bin\Debug\netcoreapp3.1\DotNetRefresherProblems.dll
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\bin\Debug\netcoreapp3.1\DotNetRefresherProblems.pdb
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\obj\Debug\netcoreapp3.1\DotNetRefresherProblems.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\obj\Debug\netcoreapp3.1\DotNetRefresherProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\obj\Debug\netcoreapp3.1\DotNetRefresherProblems.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\obj\Debug\netcoreapp3.1\DotNetRefresherProblems.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\obj\Debug\netcoreapp3.1\DotNetRefresherProblems.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\obj\Debug\netcoreapp3.1\DotNetRefresherProblems.dll
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\obj\Debug\netcoreapp3.1\DotNetRefresherProblems.pdb
+C:\Users\Admin\source\repos\DotNetRefresherProblems\DotNetRefresherProblems\obj\Debug\netcoreapp3.1\DotNetRefresherProblems.genruntimeconfig.cache
